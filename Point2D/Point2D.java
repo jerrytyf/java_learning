@@ -1,6 +1,6 @@
 public class Point2D{
-    private int x;
-    private int y;
+    protected int x;
+    protected int y;
     public Point2D(int x,int y)
     {
         this.x = x;
